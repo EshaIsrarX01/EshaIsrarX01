@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @EshaIsrarX01
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning java
 - 💞 It will be an honor for me to collaborate with you
 

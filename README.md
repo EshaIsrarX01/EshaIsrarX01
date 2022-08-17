@@ -2,7 +2,7 @@
 ## I’m **@EshaIsrarX01**. 
 
 _I am currently learning java._ 
-***It will be an honor for me to collaborate with you***
+***It would be my honor to collaborate with you.***
 
 
 <!---

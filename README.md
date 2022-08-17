@@ -1,5 +1,5 @@
 # Hi, 
-## I’m **@EshaIsrarX01**. 
+## I’m **EshaIsrarX01**. 
 
 _I am currently learning java._ 
 ***It would be my honor to collaborate with you.***

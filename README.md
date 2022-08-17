@@ -1,4 +1,6 @@
-Hi, I’m @EshaIsrarX01, currently learning java. It will be an honor for me to collaborate with you
+# Hi, 
+I’m **@EshaIsrarX01**. _Currently learning java._ 
+***It will be an honor for me to collaborate with you***
 
 
 <!---

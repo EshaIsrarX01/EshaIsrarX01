@@ -1,8 +1,6 @@
 # Hi, 
-## I’m **EshaIsrarX01**. 
-
-_I am currently learning java._ 
-***It would be my honor to collaborate with you.***
+## I’m **EshaMaher**. 
+***I would be honored to collaborate with you.***
 
 
 <!---
